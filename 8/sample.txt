@@ -1,0 +1,27 @@
+Hello world!
+This is a sample text file.
+It contains multiple lines of text.
+We are using this file to practice reading from files.
+Happy programming!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
