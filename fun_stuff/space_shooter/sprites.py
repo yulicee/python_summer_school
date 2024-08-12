@@ -9,7 +9,7 @@ class Spaceship(pygame.sprite.Sprite):
         self.image = pygame.image.load('assets/spaceship.png')
         self.image = pygame.transform.scale(self.image, (50, 50))
         self.rect = self.image.get_rect(center=(WIDTH // 2, HEIGHT - 50))
-        self.speed = 7  # Speed of the spaceship
+        self.speed = 7  
 
     def move(self, dx, dy):
         self.rect.x += dx
